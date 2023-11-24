@@ -1,0 +1,11 @@
+br\edu\ifnmg\abstractfactory\Arqueiro.class
+br\edu\ifnmg\abstractfactory\Cliente.class
+br\edu\ifnmg\abstractfactory\Mago.class
+br\edu\ifnmg\abstractfactory\FabricaPersonagemFantasia.class
+br\edu\ifnmg\abstractfactory\Arco.class
+br\edu\ifnmg\abstractfactory\Espada.class
+br\edu\ifnmg\abstractfactory\Personagem.class
+br\edu\ifnmg\abstractfactory\Cajado.class
+br\edu\ifnmg\abstractfactory\Arma.class
+br\edu\ifnmg\abstractfactory\FabricaPersonagem.class
+br\edu\ifnmg\abstractfactory\Guerreiro.class
